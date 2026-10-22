@@ -7,3 +7,4 @@ To run the program:
 ```bash
 make
 ./p2
+The program was tested using a queue, stack, and priority queues
